@@ -34,6 +34,8 @@ use Illuminate\Http\Request;
 // ));
 
 
+
+
 // use this if will return view (if no promise or asych data to post)
 // Route::view('/', 'welcome');
 
